@@ -28,18 +28,18 @@ Look through the application code. If you have the old Lambda Times (Applied Jav
 
 ## Self-Study/Essay Questions
 
-- [ ] What are PropTypes used for? Please describe why it's important to type check our data in JavaScript.
-- [ ] Describe a life-cycle event in React?
-- [ ] Explain the details of a Higher Order Component?
-- [ ] What are three different ways to style components in React? Explain some of the benefits of each.
+- [ in Answers.md ] What are PropTypes used for? Please describe why it's important to type check our data in JavaScript.
+- [ in Answers.md ] Describe a life-cycle event in React?
+- [ in Answers.md ] Explain the details of a Higher Order Component?
+- [ in Answers.md ] What are three different ways to style components in React? Explain some of the benefits of each.
 
 ## Project Setup
 
 Follow these steps to set up your project:
 
-- [ ] Create a forked copy of this project.
-- [ ] Add your project manager as collaborator on Github.
-- [ ] Clone your OWN version of the repository (Not Lambda's by mistake!).
+- [ x ] Create a forked copy of this project.
+- [ x ] Add your project manager as collaborator on Github.
+- [ x ] Clone your OWN version of the repository (Not Lambda's by mistake!).
 - [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
 - [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
 - [ ] Push commits: git push origin `<firstName-lastName>`.
