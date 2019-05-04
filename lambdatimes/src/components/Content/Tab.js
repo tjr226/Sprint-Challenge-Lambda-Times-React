@@ -2,14 +2,14 @@ import React from 'react';
 
 
 const Tab = props => {
-
+  var classNameVar = ''
   /* Using your props, determine if the `tab` prop matches the `selectedTab` prop, 
       if they match, the className should be: 'tab active-tab', 
       if it is not it should just be 'tab'*/
   if ( props.selectedTab === props.tab ) {
-    var classNameVar = 'tab active-tab';
+    classNameVar = 'tab active-tab';
   } else {
-    var classNameVar = 'tab';
+    classNameVar = 'tab';
   }
 
   var tabVar = props.tab
